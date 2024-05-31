@@ -1,4 +1,7 @@
 follow this link to access my portfolio
 
+https://prudvi1916.github.io/my_portfolio/
 
- https://prudvi1916.github.io/my_portfolio/
+and this github repo link is 
+
+https://github.com/prudvi1916/my_portfolio.git
