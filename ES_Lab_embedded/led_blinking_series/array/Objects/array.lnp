@@ -1,0 +1,3 @@
+".\Objects\array.obj" 
+TO ".\Objects\array" 
+PRINT(".\Listings\array.m51")
