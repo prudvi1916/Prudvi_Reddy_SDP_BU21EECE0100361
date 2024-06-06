@@ -1,0 +1,3 @@
+".\Objects\series.obj" 
+TO ".\Objects\leb_blink_series" 
+PRINT(".\Listings\leb_blink_series.m51")
